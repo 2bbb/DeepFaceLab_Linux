@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 # conda activate deepfacelab
 cd ..
 export DFL_PYTHON="python3.6"
