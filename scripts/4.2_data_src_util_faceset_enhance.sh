@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 source env.sh
 
 $DFL_PYTHON "$DFL_SRC/main.py" facesettool enhance  \

@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 source env.sh
 
 rm -r "$DFL_WORKSPACE"
